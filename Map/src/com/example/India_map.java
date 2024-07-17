@@ -16,6 +16,7 @@ public class India_map
 		mh.add("pune");
 		mh.add("Mumbai");
 		mh.add("Amalner");
+		mh.add("Dhule");
 		
 		List<String> up = new ArrayList<String>();
 		up.add("Lucknow");
